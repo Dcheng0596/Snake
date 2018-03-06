@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1506192993 source:c:\snake\snake\main.cpp
+	"SnakeGame.h"
+
+1506191841 source:c:\snake\snake\snake.cpp
+	"Snake.h"
+
+1506191841 c:\snake\snake\snake.h
+	<list>
+	<vector>
+	<utility>
+	<string>
+
+1506191114 c:\snake\snake\snakegame.h
+	"Snake.h"
+	"curses.h"
+	<windows.h>
+
+1506201332 source:c:\snake\snake\snakegame.cpp
+	"SnakeGame.h"
+	<chrono>
+	<random>
+	<thread>
+	"resource.h"
+
+1506183536 source:c:\snake\snake\resources.rc
+	"resource.h"
+
+1506182013 c:\snake\snake\resources.h
+
+1506182564 c:\snake\snake\resource.h
+
